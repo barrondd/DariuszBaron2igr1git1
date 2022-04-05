@@ -7,4 +7,4 @@
 # 3. Co zmieniłbyś w ZSTI?
 ### Na razie wszystko bym zostawił tak jak jest.
 
-![zdjecie](![logoZSTI_l](https://user-images.githubusercontent.com/102961777/161836227-b7cc23a0-aee6-4993-b32c-970f479fd3e0.jpg)
+(![logoZSTI_l](https://user-images.githubusercontent.com/102961777/161836227-b7cc23a0-aee6-4993-b32c-970f479fd3e0.jpg)
